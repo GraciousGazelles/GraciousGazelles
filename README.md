@@ -12,5 +12,3 @@ The operating assumption is simple: agents are useful because they move quickly,
 - [mcp-toolkit-rs](https://github.com/sednalabs/mcp-toolkit-rs) - reusable Rust foundations for MCP servers and clients.
 - [cloudflare-mcp](https://github.com/sednalabs/cloudflare-mcp), [postgres-mcp](https://github.com/sednalabs/postgres-mcp), and related servers - operator-facing MCP tools for real systems.
 - [android-computer-use-mcp](https://github.com/sednalabs/android-computer-use-mcp) and [codex](https://github.com/sednalabs/codex) - computer-use and coding-agent workflows.
-
-I prefer small tools with clear contracts, local control, explicit review boundaries, and audit trails over broad promises of autonomous correctness.
